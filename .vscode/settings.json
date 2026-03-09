@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/Users/mohammad.kheirkhah/Desktop/nlp-spacy/ex00/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.notebookEditor.defaultKernel": ".jupyter/kernels/ex00",
+    "python.terminal.activateEnvInSelectedTerminal": true,
+    "jupyter.jupyterServerEndpoint": "http://localhost:8891/?token=a5a7139bab30ad38c3f99d6a320a1658f632f67f3e99c4de"
+}
